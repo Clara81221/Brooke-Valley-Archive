@@ -1,4 +1,3 @@
-# Brooke-Valley-Archive
 <h1>Welcome to the Brooke-Valley Archive!</h1>
   <h2>An archive dedicated to our favorite transfem comic artist, Brooke</h2>
     <h4>Archive by Clara</h4>
