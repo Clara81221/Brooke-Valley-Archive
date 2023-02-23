@@ -1,4 +1,5 @@
 <h1>Welcome to the Brooke-Valley Archive!</h1>
+![icon](./icon.png)
   <h2>An archive dedicated to our favorite transfem comic artist, Brooke</h2>
     <h4>Archive by Clara</h4>
 <a href=https://www.reddit.com/user/Brooke-Valley>Show some love to Brooke</a><br>
